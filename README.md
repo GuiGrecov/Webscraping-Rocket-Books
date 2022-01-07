@@ -10,7 +10,7 @@ Coletar os seguintes dados do site: https://books.toscrape.com/index.html
  <br>Cátalogo: 
   *  Classics 
   *  Science Fiction 
-  * Business <br>
+  * Business 
  
  Coletar os seguintes dados de cada livro 
   *  Nome do Livro 
