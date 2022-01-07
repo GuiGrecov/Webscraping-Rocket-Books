@@ -17,4 +17,5 @@ Coletar os seguintes dados do site: https://books.toscrape.com/index.html
   *  Nome do Livro 
   *  Preço em Libras 
   *  Disponível em estoque 
+  *  Rating - traduzir para número
   
