@@ -40,7 +40,7 @@ Abaixo nós temos o diagrama que exemplifica a arquiterua de como está configur
 
 # 5. Hipóteses solucionadas 
 * **H1.** O gênero com maior preço médio tem melhores avaliações. 
-<br>**FALSA**  O genêro com o maior preço não tem as melhores avaliações.
+**FALSA**  O genêro com o maior preço não tem as melhores avaliações. <br>
 ![image](https://user-images.githubusercontent.com/94385953/148602601-c3fbbc78-1c8a-4214-a3e5-9a3f3d286a44.png)
 <br> Como conseguimos observar no gráfico acima gênero com os livros mais caros são pertencentes ao gênero: "Classic". 
 
