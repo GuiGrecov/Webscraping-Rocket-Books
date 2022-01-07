@@ -48,5 +48,5 @@ Abaixo nós temos o diagrama que exemplifica a arquiterua de como está configur
 <br>Como vemos na imagem acima o gênero com melhor avaliação média é pertencente a Business. Ou seja, não necessariamente os melhores gêneros/livros são os livros mais caros. 
 
 * **H2.** Gênero de Negócios tem o melhor rating de todos os gêneros 
-**VERDADEIRO** O Gênero de Negócios tem as melhores avaliações
+**VERDADEIRO** O Gênero de Negócios tem as melhores avaliações<br>
 ![image](https://user-images.githubusercontent.com/94385953/148603164-05be5a66-2714-454b-83c5-2311280142dc.png)
