@@ -45,8 +45,9 @@ Abaixo nós temos o diagrama que exemplifica a arquiterua de como está configur
 <br> Como conseguimos observar no gráfico acima gênero com os livros mais caros são pertencentes ao gênero: "Classic". 
 
 <br> ![image](https://user-images.githubusercontent.com/94385953/148602940-911ddc5c-6cdc-4810-822f-a97765533aab.png)
-<br>Como vemos na imagem acima o gênero com melhor avaliação média é pertencente a Business. Ou seja, não necessariamente os melhores gêneros/livros são os livros mais caros. 
+<br>**Conclusão -** Não necessariamente os melhores gêneros/livros são os livros mais caros. 
 
 * **H2.** Gênero de Negócios tem o melhor rating de todos os gêneros 
 **VERDADEIRO** O Gênero de Negócios tem as melhores avaliações<br>
 ![image](https://user-images.githubusercontent.com/94385953/148603164-05be5a66-2714-454b-83c5-2311280142dc.png)
+<br> O gênero de negócios (Business) tem as melhores avaliações médias quando comparado com os outros gêneros
