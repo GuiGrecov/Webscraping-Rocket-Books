@@ -11,7 +11,6 @@ Coletar os seguintes dados do site: https://books.toscrape.com/index.html
   *  Classics 
   *  Science Fiction 
   * Business 
-  
 <br> Coletar os seguintes dados de cada livro 
   *  Nome do Livro 
   *  Preço em Libras 
