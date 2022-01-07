@@ -7,10 +7,11 @@ O CEO da livraria ROCKET BOOKS precia saber o que seu concorrente está fazendo.
 
 # 3. Questão de Negócio 
 Coletar os seguintes dados do site: https://books.toscrape.com/index.html
- <br>Cátalogo: 
+ <br>
+ Cátalogo: 
   *  Classics 
   *  Science Fiction 
-  * Business 
+  *  Business 
  
  Coletar os seguintes dados de cada livro 
   *  Nome do Livro 
