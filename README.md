@@ -42,6 +42,11 @@ Abaixo nós temos o diagrama que exemplifica a arquiterua de como está configur
 * **H1.** O gênero com maior preço médio tem melhores avaliações. 
 <br>**FALSA**  O genêro com o maior preço não tem as melhores avaliações.
 ![image](https://user-images.githubusercontent.com/94385953/148602601-c3fbbc78-1c8a-4214-a3e5-9a3f3d286a44.png)
-Como conseguimos observar no gráfico acima gênero com os livros mais caros são pertencentes ao gênero: "Classic". 
+<br> Como conseguimos observar no gráfico acima gênero com os livros mais caros são pertencentes ao gênero: "Classic". 
 
+<br> ![image](https://user-images.githubusercontent.com/94385953/148602940-911ddc5c-6cdc-4810-822f-a97765533aab.png)
+<br>Como vemos na imagem acima o gênero com melhor avaliação média é pertencente a Business. Ou seja, não necessariamente os melhores gêneros/livros são os livros mais caros. 
 
+* **H2.** Gênero de Negócios tem o melhor rating de todos os gêneros 
+**VERDADEIRO** O Gênero de Negócios tem as melhores avaliações
+![image](https://user-images.githubusercontent.com/94385953/148603164-05be5a66-2714-454b-83c5-2311280142dc.png)
